@@ -18,7 +18,7 @@ The links below go to the curseforge website to the mod's page. This page contai
 - [AbnormalsCore](https://www.curseforge.com/minecraft/mc-mods/blueprint)
 - [Applied-energistics-2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 - [Camels](https://www.curseforge.com/minecraft/mc-mods/camels)
-- [Enchant-with-mob](- https://www.curseforge.com/minecraft/mc-mods/enchant-with-mob)
+- [Enchant-with-mob](https://www.curseforge.com/minecraft/mc-mods/enchant-with-mob)
 - [Guard-villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
 - [Hunterillager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
 - [Illagers-wear-armor](https://www.curseforge.com/minecraft/mc-mods/illagers-wear-armor)
