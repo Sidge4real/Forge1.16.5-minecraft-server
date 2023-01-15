@@ -1,0 +1,23 @@
+#
+###Version, do not change!##
+#Range: > 0
+Version = 2
+
+#Recruits Config:
+[Recruits]
+	#
+	#----Should Recruits Name Tag Render for the owner----
+	#	(takes effect after restart)
+	#	default: true
+	RenderNameTagforOwner = true
+	#
+	#----Should Recruits Make Villager Huh? sound?----
+	#	(takes effect after restart)
+	#	default: true
+	PlayVillagerAmbientSound = true
+	#
+	#----Should Recruits instead of Iron Golems spawn in Villages ----
+	#	(takes effect after restart)
+	#	default: false
+	OverrideIronGolemSpawn = true
+
