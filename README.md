@@ -31,6 +31,12 @@ The links below go to the curseforge website to the mod's page. This page contai
 - [Tconstruct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [The abyss2](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
 
+Mods needs to be installed in the minecraft mod folder, otherwise it won't work!
+Locate to the mod folder of minecraft. This should be created after the installation of forge. You can go this folder by pushing 'ctrl' + 'R', type '%appdata%' and push 'enter'. Go into the .minecraft folder. Go into the 'mods'-folder or create that folder. Download and place all mods there.
+
+Creating a new map can as following: click on 'new' (left-top) and click on 'folder'. Name the folder 'mods'.
+
+
 ## ⚠️ Import
 Do not sell any mod or the software forge somewhere else on the internet. That is illegal sale and is punishable!
 
