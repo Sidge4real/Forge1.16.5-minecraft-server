@@ -44,7 +44,7 @@ Do not sell any mod or the software forge somewhere else on the internet. That i
 - [Forge License](https://github.com/digitalbazaar/forge/blob/main/LICENSE)
 
 Forge license can also be found in this resporitory!
-**credits: team from Blueprint & Savage & Ravage: TeamAbnormals, team from Applied energistics: TeamAppliedEnergistics, creator of villager recruits, Small Ships & camels: talhanation (& metroite), team from Enchant With Mob & hunter illager
+**credits: team from Blueprint & Savage & Ravage: TeamAbnormals, team from Applied energistics: TeamAppliedEnergistics, creator of villager recruits + Small Ships + camels: talhanation (& metroite), team from Enchant With Mob + hunter illager
 [bagu_chan500 (owner), Evo_934, 
 mcvinnyq, akogiri & trufflehistorian],team from Guard Villagers [almightytallestred (owner), hadez43 & abigailfails], creator of Illagers Wear Armor: almightytallestred, team from Immersive Engineering: Hazard's Corner, team mantle, team from More Villagers: SameButDiffrent's modders, team from Tinkers' Construct 2: mDiyo (owner) & many others and last mod The Abyss II, their team: LunaPixelStudios**
 
